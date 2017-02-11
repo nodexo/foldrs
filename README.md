@@ -1,5 +1,5 @@
 
-Foldrs
+foldrs
 ======
 
 Content Management Reduced to the Max.
