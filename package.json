@@ -1,32 +1,21 @@
 {
   "name": "foldrs",
   "version": "0.1.0",
-  "description": "Content Management Reduced to the Max.",
+  "description": "...",
   "main": "index.js",
   "scripts": {
     "test": "standard"
   },
-"repository": {
-    "type": "git",
-    "url": "git+https://github.com/nodexo/foldrs"
-  },
-  "keywords": [
-    "content management",
-    "website generator",
-    "static website"
-  ],
-  "author": "Michael Kortstiege",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nodexo/foldrs/issues"
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "js-yaml": "^3.8.1",
+    "remove-diacritics": "^0.1.1",
+    "unidecode": "^0.1.8"
   },
-  "homepage": "https://github.com/nodexo/foldrs#readme",
   "devDependencies": {
     "standard": "^8.6.0",
     "tap": "^10.1.0"
-  },
-  "dependencies": {
-    "bluebird": "^3.4.7",
-    "js-yaml": "^3.8.1"
   }
 }
